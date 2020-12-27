@@ -1,6 +1,8 @@
 # Translatable-PDF-Viewer
 
-[English](#Instruction) | [中文](#说明)
+<https://zhaouv.github.io/Translatable-PDF-Viewer/>
+
+<!-- [English](#Instruction) | [中文](#说明) -->
 
 ## Instruction
 
