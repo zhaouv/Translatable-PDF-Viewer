@@ -14,7 +14,7 @@ Load local PDF by dragging and dropping or "Open File" icon. (PDF will not be up
 
 By adding `?open=url` to the address bar to open the network PDF.
 
-After loading the file, click on the translate icon in Chrome.
+After loading the file, click the translate icon in Chrome or translate in the right-click menu.
 
 Two icons have been added to the sidebar for ease of use, the functions are 'Adjust opacity' and 'Toggle original text'.
 
@@ -28,7 +28,7 @@ Two icons have been added to the sidebar for ease of use, the functions are 'Adj
 
 通过在地址栏加`?open=url`来打开网络PDF.
 
-加载文件之后点击Chrome的翻译图标.
+加载文件之后点击Chrome的翻译图标或者右键菜单中的翻译.
 
 在侧边栏增加了两个图标方便使用, 功能分别是'调整透明度'和'切换原文'.
 
